@@ -1078,12 +1078,8 @@ a {
 }
 .cid-sxUX7GBYnw {
   padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/mbr-5.jpg");
-}
-.cid-sxUX7GBYnw .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.6;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
 }
 .cid-sxUX7GBYnw img,
 .cid-sxUX7GBYnw .item-img {
@@ -1141,6 +1137,67 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-syAnxg7tB8 {
+  padding-top: 3rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-syAnxg7tB8 img,
+.cid-syAnxg7tB8 .item-img {
+  width: 100%;
+  height: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.cid-syAnxg7tB8 .item:focus,
+.cid-syAnxg7tB8 span:focus {
+  outline: none;
+}
+.cid-syAnxg7tB8 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-syAnxg7tB8 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-syAnxg7tB8 .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-syAnxg7tB8 .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-syAnxg7tB8 .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-syAnxg7tB8 .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-syAnxg7tB8 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-syAnxg7tB8 .mbr-section-title {
+  color: #232323;
+}
+.cid-syAnxg7tB8 .mbr-text,
+.cid-syAnxg7tB8 .mbr-section-btn {
+  text-align: left;
+}
+.cid-syAnxg7tB8 .item-title {
+  text-align: left;
+}
+.cid-syAnxg7tB8 .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
+}
 .cid-sxV20uYqeL {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1170,6 +1227,27 @@ a {
 .cid-sxV20uYqeL .card .card-header {
   background-color: transparent;
   margin-bottom: 0;
+}
+.cid-syv9uqnYAZ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+.cid-syv9uqnYAZ img {
+  width: 120px;
+  margin: auto;
+}
+.cid-syv9uqnYAZ .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-syv9uqnYAZ .card {
+    max-width: 12.5%;
+  }
 }
 .cid-sxV3gzPu3t {
   padding-top: 5rem;
