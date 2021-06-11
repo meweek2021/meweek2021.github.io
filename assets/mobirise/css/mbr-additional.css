@@ -682,6 +682,9 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-szV5PSXN1L {
+  background-image: url("../../../assets/images/me-week-2021-banner-4-for-web-2.jpeg");
+}
 .cid-sxUU5WOuGG {
   z-index: 1000;
   width: 100%;
@@ -1034,20 +1037,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sxUUjtssz2 {
-  background-image: url("../../../assets/images/mbr.jpg");
-}
-.cid-sxUUjtssz2 .mbr-section-title,
-.cid-sxUUjtssz2 .mbr-text,
-.cid-sxUUjtssz2 .mbr-section-btn {
-  text-align: center;
-}
-.cid-sxUUjtssz2 .video-wrapper {
-  margin: auto;
-}
-.cid-sxUUjtssz2 .video-wrapper iframe {
-  width: 100%;
-}
 .cid-sxUYYpSfq6 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1319,36 +1308,6 @@ a {
 .cid-szkvyXA3uc .item-subtitle {
   text-align: left;
   color: #bbbbbb;
-}
-.cid-sxV20uYqeL {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sxV20uYqeL .mbr-iconfont {
-  font-size: 1.4rem !important;
-  font-family: 'Moririse2' !important;
-  color: #353535;
-  margin-left: 1rem;
-}
-.cid-sxV20uYqeL .panel-group {
-  border: none;
-}
-.cid-sxV20uYqeL .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-sxV20uYqeL .panel-body,
-.cid-sxV20uYqeL .card-header {
-  padding: 1rem 0;
-}
-.cid-sxV20uYqeL .panel-title-edit {
-  color: #000000;
-}
-.cid-sxV20uYqeL .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
 }
 .cid-syv9uqnYAZ {
   padding-top: 6rem;
