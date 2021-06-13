@@ -42,17 +42,18 @@
     ],
     "google-analytics": "<!-- Remove Mobirise Footer -->\n<script>\n    window.addEventListener('load', function () {\n    const sections = document.querySelectorAll('section')\n    sections[sections.length-1].remove()\n})\n</script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-B7Q7G4XK0K\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-B7Q7G4XK0K');\n</script>\n\n<!-- Load Facebook SDK for JavaScript -->\n      <div id=\"fb-root\"></div>\n      <script>\n        window.fbAsyncInit = function() {\n          FB.init({\n            xfbml            : true,\n            version          : 'v10.0'\n          });\n        };\n\n        (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';\n        fjs.parentNode.insertBefore(js, fjs);\n      }(document, 'script', 'facebook-jssdk'));</script>\n\n      <!-- Your Chat Plugin code -->\n      <div class=\"fb-customerchat\"\n        attribution=\"setup_tool\"\n        page_id=\"100483056960064\">\n      </div>",
     "favicon": false,
-    "mbrsiteDomain": "6mr0sgntux",
+    "mbrsiteDomain": "jl0809iomb",
     "imageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://metalsweek2021.dost.gov.ph",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 86,
     "versionPublish": "5.3.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
