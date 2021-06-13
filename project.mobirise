@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mne-week",
-    "currentPage": "AMCen-Partners-Virtual-MOU-and-MOA-signing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -64,7 +64,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/m-e-logo.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/me-week-2021-banner-4-for-web.jpg"
       },
       "components": [
         {
