@@ -12190,6 +12190,22 @@ a {
     margin-top: 0 !important;
   }
 }
+.cid-sAtgzqfwGq {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-sAtgzqfwGq .mbr-section-title,
+.cid-sAtgzqfwGq .mbr-text,
+.cid-sAtgzqfwGq .mbr-section-btn {
+  text-align: center;
+}
+.cid-sAtgzqfwGq .video-wrapper {
+  margin: auto;
+}
+.cid-sAtgzqfwGq .video-wrapper iframe {
+  width: 100%;
+}
 .cid-sAhz6MBKRf {
   z-index: 1000;
   width: 100%;
@@ -12543,7 +12559,7 @@ a {
   }
 }
 .cid-sAhz6N64oI {
-  padding-top: 5rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
   background-image: url("../../../assets/images/background1.jpg");
 }
