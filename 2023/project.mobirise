@@ -49,7 +49,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "cbqh6n26il",
+    "mbrsiteDomain": "pl8aqhwypa",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -67,8 +67,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "2023 Metals and Engineering Week",
-        "meta_descr": "Providing Crucial Support to Recovery Efforts of the Country.\n1st National Metals and Engineering Conference",
+        "title": "Metals and Engineering Week 2023: A Showcase of the Latest Innovations in the Metal Industry",
+        "meta_descr": "Join us for Metals and Engineering Week 2023, the premier event for the metal industry. Discover the latest innovations and technologies in the field.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
