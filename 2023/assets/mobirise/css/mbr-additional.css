@@ -1057,7 +1057,7 @@ a {
   }
 }
 .cid-txTITG41Ea {
-  background-image: url("../../../assets/images/nmec-2023-banner-for-website-1679633827151.jpg");
+  background-image: url("../../../assets/images/nmec-2023-banner-for-web-image-only.jpg");
 }
 .cid-txTITG41Ea .mbr-fallback-image.disabled {
   display: none;
@@ -1226,7 +1226,7 @@ a {
 .cid-tzhsQAkvwW {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ed5f09;
+  background-image: url("../../../assets/images/me-2022-bgnd-for-web-bw-1367x768.jpg");
 }
 .cid-tzhsQAkvwW .mbr-fallback-image.disabled {
   display: none;
@@ -1356,15 +1356,20 @@ a {
     max-width: 12.5%;
   }
 }
-.cid-tzhBNPUrEj {
-  background-image: url("../../../assets/images/me-2022-bgnd-for-web-bw-1367x768.jpg");
+.cid-tzoG6oxawN {
+  background-image: url("../../../assets/images/me-2023-banner-10x8ft-for-web2.jpg");
 }
-.cid-tzhBNPUrEj .mbr-text,
-.cid-tzhBNPUrEj .mbr-section-btn {
-  text-align: right;
+.cid-tzoG6oxawN .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-tzhBNPUrEj .mbr-section-title {
-  text-align: right;
+.cid-tzoG6oxawN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tzhC2JZfoh {
   padding-top: 5rem;
@@ -1382,7 +1387,7 @@ a {
 .cid-txSwkE0Nn9 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-26.jpg");
 }
 .cid-txSwkE0Nn9 .media-wrap {
   padding: 0;
