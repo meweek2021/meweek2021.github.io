@@ -71,7 +71,8 @@
         "meta_descr": "Join us for Metals and Engineering Week 2023, the premier event for the metal industry. Discover the latest innovations and technologies in the field.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/me-2023-theme-layout.jpg"
       },
       "components": [
         {
