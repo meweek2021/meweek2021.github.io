@@ -1056,13 +1056,66 @@ a {
     left: -1rem;
   }
 }
-.cid-txTITG41Ea {
+.cid-tzG4RQeeD3 {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/nmec-2023-banner-for-web-image-only.jpg");
 }
-.cid-txTITG41Ea .mbr-fallback-image.disabled {
+.cid-tzG4RQeeD3 .mbr-text,
+.cid-tzG4RQeeD3 .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tzG4RQeeD3 .mbr-section-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tzG4RQeeD3 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tzG4WQ0RTl {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/me-2023-banner-10x8ft-for-web2-1.jpeg");
+}
+.cid-tzG4WQ0RTl .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tzG4WQ0RTl .mbr-text,
+.cid-tzG4WQ0RTl .mbr-section-btn {
+  color: #fafafa;
+}
+.cid-txSy3rB66A {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-txSy3rB66A img {
+  width: 120px;
+  margin: auto;
+}
+.cid-txSy3rB66A .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-txSy3rB66A .card {
+    max-width: 12.5%;
+  }
+}
+.cid-tzhsQAkvwW {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/me-2022-bgnd-for-web-bw-1367x768.jpg");
+}
+.cid-tzhsQAkvwW .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-txTITG41Ea .mbr-fallback-image {
+.cid-tzhsQAkvwW .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1071,13 +1124,32 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-txTITG41Ea H3 {
-  text-align: left;
+.cid-tzhsQAkvwW .card {
+  border-radius: 0;
 }
-.cid-txTITG41Ea .mbr-text,
-.cid-txTITG41Ea .mbr-section-btn {
-  text-align: left;
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-tzhsQAkvwW .card {
+    border-right: 1px solid white;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tzhsQAkvwW .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-tzhsQAkvwW .wrapper {
+  padding: 30px 0;
+}
+.cid-tzhsQAkvwW .mbr-section-title {
+  color: #fafafa;
+}
+.cid-tzhsQAkvwW .mbr-text,
+.cid-tzhsQAkvwW .mbr-section-btn {
+  color: #fafafa;
+}
+.cid-tzhsQAkvwW H3 {
+  color: #e43f3f;
 }
 .cid-tzhKfCo2iq {
   padding-top: 1rem;
@@ -1223,50 +1295,6 @@ a {
     margin-right: 2rem !important;
   }
 }
-.cid-tzhsQAkvwW {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/me-2022-bgnd-for-web-bw-1367x768.jpg");
-}
-.cid-tzhsQAkvwW .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tzhsQAkvwW .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tzhsQAkvwW .card {
-  border-radius: 0;
-}
-@media (min-width: 992px) {
-  .cid-tzhsQAkvwW .card {
-    border-right: 1px solid white;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tzhsQAkvwW .card {
-    border-right: 0px;
-    border-bottom: 1px solid white;
-  }
-}
-.cid-tzhsQAkvwW .wrapper {
-  padding: 30px 0;
-}
-.cid-tzhsQAkvwW .mbr-section-title {
-  color: #fafafa;
-}
-.cid-tzhsQAkvwW .mbr-text,
-.cid-tzhsQAkvwW .mbr-section-btn {
-  color: #fafafa;
-}
-.cid-tzhsQAkvwW H3 {
-  color: #e43f3f;
-}
 .cid-txStnZfcd5 .icon-wrapper {
   margin: auto;
   background-color: #ed5f09;
@@ -1334,42 +1362,6 @@ a {
 .cid-txStnZfcd5 .mbr-media {
   color: #fafafa;
   text-align: center;
-}
-.cid-txSy3rB66A {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-txSy3rB66A img {
-  width: 120px;
-  margin: auto;
-}
-.cid-txSy3rB66A .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-txSy3rB66A .card {
-    max-width: 12.5%;
-  }
-}
-.cid-tzoG6oxawN {
-  background-image: url("../../../assets/images/me-2023-banner-10x8ft-for-web2.jpg");
-}
-.cid-tzoG6oxawN .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tzoG6oxawN .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
 }
 .cid-tzhC2JZfoh {
   padding-top: 5rem;
